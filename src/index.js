@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import './index.css'
 import App from './App'
 import Orchidea from './routes/Orchidea'
-import HotelPage from './routes/HotelPage'
+import HotelPage from './components/HotelPage'
 
 ReactDOM.render(
   <BrowserRouter>

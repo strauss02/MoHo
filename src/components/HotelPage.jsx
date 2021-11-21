@@ -1,6 +1,8 @@
 import React from "react";
 import { useParams } from "react-router";
 import { Link } from "react-router-dom";
+import CallNowButton from "./CallNowButton";
+
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faTimes } from '@fortawesome/free-solid-svg-icons'
@@ -18,7 +20,10 @@ function HotelPage () {
         <FontAwesomeIcon  icon={faTimes} />
         </Link>
 
-        Hotel {params.hotelName}</div>
+         {params.hotelName}
+        <CallNowButton/>
+        </div>
+
 
     </div>
   )
