@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/MoHo/static/css/main.12492f12.chunk.css",
-    "main.js": "/MoHo/static/js/main.360d20b6.chunk.js",
-    "main.js.map": "/MoHo/static/js/main.360d20b6.chunk.js.map",
+    "main.js": "/MoHo/static/js/main.c174eb85.chunk.js",
+    "main.js.map": "/MoHo/static/js/main.c174eb85.chunk.js.map",
     "runtime-main.js": "/MoHo/static/js/runtime-main.76f16961.js",
     "runtime-main.js.map": "/MoHo/static/js/runtime-main.76f16961.js.map",
-    "static/js/2.f02ab981.chunk.js": "/MoHo/static/js/2.f02ab981.chunk.js",
-    "static/js/2.f02ab981.chunk.js.map": "/MoHo/static/js/2.f02ab981.chunk.js.map",
+    "static/js/2.d863ef60.chunk.js": "/MoHo/static/js/2.d863ef60.chunk.js",
+    "static/js/2.d863ef60.chunk.js.map": "/MoHo/static/js/2.d863ef60.chunk.js.map",
     "index.html": "/MoHo/index.html",
     "static/css/main.12492f12.chunk.css.map": "/MoHo/static/css/main.12492f12.chunk.css.map",
-    "static/js/2.f02ab981.chunk.js.LICENSE.txt": "/MoHo/static/js/2.f02ab981.chunk.js.LICENSE.txt"
+    "static/js/2.d863ef60.chunk.js.LICENSE.txt": "/MoHo/static/js/2.d863ef60.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.76f16961.js",
-    "static/js/2.f02ab981.chunk.js",
+    "static/js/2.d863ef60.chunk.js",
     "static/css/main.12492f12.chunk.css",
-    "static/js/main.360d20b6.chunk.js"
+    "static/js/main.c174eb85.chunk.js"
   ]
 }
