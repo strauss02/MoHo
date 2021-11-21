@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/moho/static/css/main.12492f12.chunk.css",
-    "main.js": "/moho/static/js/main.360d20b6.chunk.js",
-    "main.js.map": "/moho/static/js/main.360d20b6.chunk.js.map",
-    "runtime-main.js": "/moho/static/js/runtime-main.3cac8ddc.js",
-    "runtime-main.js.map": "/moho/static/js/runtime-main.3cac8ddc.js.map",
-    "static/js/2.f02ab981.chunk.js": "/moho/static/js/2.f02ab981.chunk.js",
-    "static/js/2.f02ab981.chunk.js.map": "/moho/static/js/2.f02ab981.chunk.js.map",
-    "index.html": "/moho/index.html",
-    "static/css/main.12492f12.chunk.css.map": "/moho/static/css/main.12492f12.chunk.css.map",
-    "static/js/2.f02ab981.chunk.js.LICENSE.txt": "/moho/static/js/2.f02ab981.chunk.js.LICENSE.txt"
+    "main.css": "/MoHo/static/css/main.12492f12.chunk.css",
+    "main.js": "/MoHo/static/js/main.360d20b6.chunk.js",
+    "main.js.map": "/MoHo/static/js/main.360d20b6.chunk.js.map",
+    "runtime-main.js": "/MoHo/static/js/runtime-main.76f16961.js",
+    "runtime-main.js.map": "/MoHo/static/js/runtime-main.76f16961.js.map",
+    "static/js/2.f02ab981.chunk.js": "/MoHo/static/js/2.f02ab981.chunk.js",
+    "static/js/2.f02ab981.chunk.js.map": "/MoHo/static/js/2.f02ab981.chunk.js.map",
+    "index.html": "/MoHo/index.html",
+    "static/css/main.12492f12.chunk.css.map": "/MoHo/static/css/main.12492f12.chunk.css.map",
+    "static/js/2.f02ab981.chunk.js.LICENSE.txt": "/MoHo/static/js/2.f02ab981.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3cac8ddc.js",
+    "static/js/runtime-main.76f16961.js",
     "static/js/2.f02ab981.chunk.js",
     "static/css/main.12492f12.chunk.css",
     "static/js/main.360d20b6.chunk.js"
