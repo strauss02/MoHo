@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faTimes } from '@fortawesome/free-solid-svg-icons'
 
-function Hotel () {
+function HotelPage () {
   let params = useParams()
   return (
     <div className=" fixed  top-0 left-0 h-screen w-screen bg-gray-700 bg-opacity-40 z-10 flex justify-center items-center ">
@@ -24,4 +24,4 @@ function Hotel () {
   )
 }
 
-export default Hotel
+export default HotelPage
