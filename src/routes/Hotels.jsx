@@ -1,23 +1,21 @@
 import React from "react";
-import { Link, Outlet } from "react-router-dom";
+import { NavLink, Outlet } from "react-router-dom";
 import hotels from '../assets/hotels.json'
 
 
-function Leonardo() {
+function Hotels() {
   let hotelsCopy = [...hotels]
-
-
-
   return (
     <div>
       <nav>
       { hotelsCopy.map(hotel => (
-        <Link 
-        to= {`/leonardo/${hotel['שם']}`}
+        <NavLink 
+        className={({isActive}) => isActive? "text-pink-500": "text-green-800" }
+        to= {`/hotels/${hotel['שם']}`}
         key = {hotel['שם']}
         >
           {hotel['שם']}
-        </Link>
+        </NavLink>
       ))}
       </nav>
         <Outlet/>
@@ -25,4 +23,4 @@ function Leonardo() {
   )
 }
 
-export default Leonardo
+export default Hotels

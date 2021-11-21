@@ -4,14 +4,14 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import './index.css'
 import App from './App'
 import Orchidea from './routes/Orchidea'
-import Leonardo from './routes/Leonardo'
+import Hotels from './routes/Hotels'
 import Hotel from './routes/hotel'
 
 ReactDOM.render(
   <BrowserRouter>
     <Routes>
       <Route path="/" element={<App />}>
-        <Route path="leonardo" element={<Leonardo />}>
+        <Route path="hotels" element={<Hotels />}>
           <Route
             index
             element={
